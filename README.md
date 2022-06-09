@@ -1,4 +1,4 @@
-# Rock paper scissor using opencv and mediapipe
+# Rock paper scissors using opencv and mediapipe
 ### This programe will track your hands and determine wheather you are showing rock,paper or scissor based on your gesture
 ### This program will also play with you ~ In every 3 seconds, the program will also do a rock,paper or scissor to compete with you.
 #### Example
